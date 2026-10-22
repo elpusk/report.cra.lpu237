@@ -12,7 +12,7 @@ lpu237 device CRA(Cyber Resilience Act) 대응 자료
 ## CRA 전면 적용를 위한 문서
 
 1. 각 요소 SBOM
-  - [SBOM 이 포함된 firmware](https://github.com/elpusk/public.lpu237.firmware/blob/main/lpu23x/lpu23x_00035_sbom.zip)
+  - [SBOM 이 포함된 최신 firmware](https://github.com/elpusk/public.lpu237.firmware/blob/9627c35963c037aa0a33cb53581314afc017727b/lpu23x/lpu23x_00038_sbom.zip)
   - 기본 SBOM
     - [win.full.x64.cyclonedx](https://github.com/elpusk/public.lpu237.software/blob/main/full/x64/lp230-x64-wix-sbom-cyclonedx.json)
     - [win.full.x64.spdx](https://github.com/elpusk/public.lpu237.software/blob/main/full/x64/lp230-x64-wix-sbom-spdx.json)
